@@ -1,0 +1,27 @@
+.container {
+    display: grid;
+    height: 600px;
+    width: 600px;
+    grid-gap: 1px;
+    margin: auto;
+    border: solid 1px;
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+    font-family: open-sans;
+    color: white;
+}
+
+body {
+    background-color: #12232E;
+}
+
+.btnwrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
